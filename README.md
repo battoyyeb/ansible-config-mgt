@@ -18,14 +18,3 @@ DevOps philosophy implies constant iterative improvement for better efficiency â
 
    https://ubuntu.com/aws/pro
 
-Expanded Security Maintenance for Applications is not enabled.
-
-129 updates can be applied immediately.
-70 of these updates are standard security updates.
-To see these additional updates run: apt list --upgradable
-
-1 additional security update can be applied with ESM Apps.
-Learn more about enabling ESM Apps service at https://ubuntu.com/esm
-
-
-Last login: Thu Sep 28 01:19:15 2023 from 68.39.228.62
