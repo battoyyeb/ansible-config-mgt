@@ -16,5 +16,3 @@
     - name: set timezone to America/Indianapolis
       timezone:
         name: America/Indianapolis
-
-        
