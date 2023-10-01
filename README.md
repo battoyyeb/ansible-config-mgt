@@ -1,5 +1,0 @@
-First part of ‘DevOps’ is ‘Dev’, which means you will require to write some codes and you shall have proper tools that will make your coding and debugging comfortable – youneed an Integrated development environment (IDE) or Source-code Editor. There is a plethora of different IDEs and Source-code Editors for different languages with their own advantages and drawbacks, you can choose whichever you are comfortable with, but we recommend one free and universal editor that will fully satisfy your needs – Visual Studio Code (VSC), you can get it here.
-
-After you have successfully installed VSC. Install a "remote development".
-
-Also, configure it to connect to your newly created GitHub repository. On the homepage of your VS code, click the clone repository, slect the new repository you created, and select the folder in which it was stored.
